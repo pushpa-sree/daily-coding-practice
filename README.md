@@ -11,7 +11,7 @@ I practice coding daily and add at least 2 questions every day to build consiste
 Folders are organized by day or topic.
 
 ## Languages
--  Java / Python
+-  Java 
 
 ## Progress Log
 - Day 01 – Started the repository
