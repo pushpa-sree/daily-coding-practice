@@ -1,6 +1,6 @@
 import java.util.*; 
-public class Recursions_day04_q1 {
-  // day04
+public class Recursions_day05_q1 {
+  // day05
   //recursion
   //https://leetcode.com/problems/subsets/
      public static  void GenerateSubsets(List<List<Integer>> result , List <Integer> temp, int[] nums , int current){

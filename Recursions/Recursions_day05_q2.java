@@ -1,7 +1,7 @@
 import java.util.*; 
-class Recursions_day04_q2{
+class Recursions_day05_q2{
 
-    // day 04
+    // day 05
     //Recursions
     //https://leetcode.com/problems/permutations/
       public static void permutation(int[] nums, List<Integer> current,
