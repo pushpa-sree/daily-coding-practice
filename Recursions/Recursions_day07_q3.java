@@ -1,5 +1,5 @@
 import java.util.*; 
-public class Recursions_day06_q3 {
+public class Recursions_day07_q3 {
     //day06
     //binary String without zeroes to adjucent
     //https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/submissions/1938944840/

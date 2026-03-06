@@ -1,5 +1,5 @@
 import java.util.*; 
-class Graphs_day06_q2{
+class Graphs_day07_q2{
     //day06
     //https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1
     //traversing graph using dfs
@@ -49,7 +49,7 @@ class Graphs_day06_q2{
             adj.get(v).add(u); 
         }
 
-        Graphs_day06_q2 obj = new Graphs_day06_q2();
+        Graphs_day07_q2 obj = new Graphs_day07_q2();
 
         ArrayList<Integer> res = obj.dfs(adj);
 

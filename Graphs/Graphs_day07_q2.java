@@ -2,7 +2,7 @@ import java.util.*;
 //day 06
 //https://leetcode.com/problems/number-of-provinces/
 //no .of provinces 
-public class Graphs_day06_q2 {
+public class Graphs_day07_q2 {
 
     public static void findBfs(int[][] isConnected, int[] visited, Queue<Integer> q){
 
