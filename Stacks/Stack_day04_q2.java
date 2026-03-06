@@ -1,5 +1,6 @@
 import java.util.*; 
 class Stack_day04_q2{
+    //https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1
     public static int[] nextLargerElement(int[] arr) {
        Stack <Integer> store = new Stack<>();
        int[] res = new int[arr.length];
