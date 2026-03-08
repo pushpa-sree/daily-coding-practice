@@ -59,6 +59,7 @@ public class LinkedList_day03_q2 {
         }
         boolean isCycle = hasCycle(head);
         System.out.println(isCycle);
+        sc.close();
     }
 }
 

@@ -30,6 +30,7 @@ class Arrays_day01_q1{
        int k = sc.nextInt();
        int result = subarraySum(arr, k);
        System.out.println(result);
+       sc.close();
 
    }
 }
