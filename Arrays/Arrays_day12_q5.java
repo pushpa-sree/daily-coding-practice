@@ -1,6 +1,7 @@
 import java.util.*; 
 public class Arrays_day12_q5{
-    
+    //da12
+    //https://leetcode.com/problems/lemonade-change/
      public static boolean lemonadeChange(int[] bills) {
         int FiveCounts = 0; 
         int TenthCounts = 0; 

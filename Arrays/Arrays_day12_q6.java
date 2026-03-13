@@ -1,6 +1,7 @@
 import java.util.*; 
 public class Arrays_day12_q6 {
-
+     //day 12
+     //https://leetcode.com/problems/assign-cookies/
     public static int findContentChildren(int[] g, int[] s) {
         Arrays.sort(g);
         Arrays.sort(s);
