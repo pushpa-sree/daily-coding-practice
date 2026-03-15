@@ -1,5 +1,7 @@
 import java.util.*; 
-public class DynamicProgramming_day14 {
+//https://leetcode.com/problems/climbing-stairs/description/
+//day14
+public class DynamicProgramming_day14_q2 {
      public static int climbStairs(int n) {
         if(n == 1  || n == 0){
             return 1; 
@@ -20,6 +22,7 @@ public class DynamicProgramming_day14 {
         int n = sc.nextInt();
         int res = climbStairs(n);
         System.out.println(res);
+        sc.close();
     }
 }
 

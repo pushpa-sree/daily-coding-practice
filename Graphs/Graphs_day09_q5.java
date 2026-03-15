@@ -52,6 +52,7 @@ public  class Graphs_day09_q5{
         int src = sc.nextInt();
        int[] res = shortestPath(V , arr , src);
         System.out.println(Arrays.toString(res));
+        sc.close();
 
     }
 

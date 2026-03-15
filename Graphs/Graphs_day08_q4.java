@@ -46,5 +46,6 @@ public class Graphs_day08_q4 {
         }
         int res =  numIslands(grid);
         System.out.println(res);
+        sc.close();
     }
 }
