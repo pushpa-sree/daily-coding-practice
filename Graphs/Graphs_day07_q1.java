@@ -55,5 +55,6 @@ class Graphs_day07_q2{
 
         System.out.println("DFS Traversal:");
         System.out.println(res);
+        sc.close();
     }
 }

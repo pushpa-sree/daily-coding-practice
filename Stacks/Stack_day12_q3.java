@@ -42,5 +42,6 @@ class Stack_day12_q3{
         }
         int[] ans = dailyTemperatures(temperatures);
         System.out.println(Arrays.toString(ans));
+        sc.close();
     }
 }

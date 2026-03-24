@@ -5,7 +5,7 @@ public class DynamicProgramming_day15_q4 {
      public static int rob(int[] nums) {
         int n = nums.length; 
        // int[] dp = new int[n];
-        int money = 0; 
+      //  int money = 0; 
         if(nums.length == 1){
             return nums[0];
         }

@@ -74,5 +74,6 @@ public class Graphs_day08_q3 {
         }
         int ans = orangesRotting(grid);
         System.out.println(ans);
+        sc.close();
     }
 }

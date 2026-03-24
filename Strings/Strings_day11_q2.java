@@ -29,6 +29,7 @@ public class Strings_day11_q2 {
         String t = sc.next();
         boolean isTrue = isAnagram(s , t);
         System.out.println(isTrue);
+        sc.close();
     }
 }
 
